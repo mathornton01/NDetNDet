@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {I}Introduction}{1}
+\contentsline {section}{\numberline {II}Previous Work}{1}
+\contentsline {section}{\numberline {III}Algorithm/ Problem etc.}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Cell-Aware Fault Models and their Relation to Stuck-at ATPG}{1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {III-A}1}Cell-aware fault detection conditions}{1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {III-A}2}Why n-detect ATPG Test Sets May Be Biased}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Determining which Cell-aware faults to target}{1}
+\contentsline {section}{\numberline {IV}Experimental Setup \& Results}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Set Up}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Results}{2}
+\contentsline {section}{\numberline {V}Conclusions}{6}
+\contentsline {section}{References}{6}
